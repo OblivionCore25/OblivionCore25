@@ -20,7 +20,7 @@ Currently exploring the intersection of AI and software engineering — building
 
 **[AI Agentic Karate Testing](https://github.com/OblivionCore25/ai-agentic-karate-testing)** — Multi-agent system for automated API test generation. Uses LangGraph for orchestration, a multi-source RAG knowledge base (OpenAPI specs, Java AST parsing via tree-sitter, existing test suites), and ChromaDB for semantic retrieval.
 
-**[Movie Matchmaker](https://github.com/OblivionCore25/movie_matchmaker)** — Full-stack web application for personalized movie recommendations with an interactive UI.
+**[Sentinel Supply Chain Monitor](https://github.com/OblivionCore25/sentinel-supply-chain)** — Event-driven microservices platform (Java 21, Spring Boot 3, Kafka, React/TypeScript, D3.js) that streams vulnerability events in real time, scores risk across the full dependency graph, and delivers alerts via WebSocket to a live dashboard. 41 tests, Traefik API gateway, Flyway migrations.
 
 #### Currently
 
