@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E75B6&vCenter=true&width=600&lines=Senior+Software+Engineer+%7C+10%2B+Years;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+AWS+%E2%80%A2+React;Building+real-time+systems+in+financial+services)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E75B6&vCenter=true&width=600&lines=Senior+Software+Engineer+%7C+10%2B+Years;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+AWS+%E2%80%A2+React)](https://git.io/typing-svg)
 
 ### Hi, I'm Fabian Gonzalez
 
